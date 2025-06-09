@@ -7,9 +7,9 @@ let handler = async (m, { conn, args }) => {
   let totalreg = Object.keys(global.db.data.users).length;
   let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length;
 
-  const botname = global.botname || "NombreDelBot";
+  const botname = global.botname || "Paim-bot";
   const textbot = global.textbot || "Descripción del bot";
-  const banner = global.banner || "URL de la imagen del banner";
+  const banner = global.banner || "https://files.catbox.moe/6ayihk.jpg";
   const redes = global.redes || "URL de las redes sociales";
   const channelRD = global.channelRD || { id: 'id_del_canal', name: 'Nombre del canal' };
   const moneda = global.moneda || 'monedas';
