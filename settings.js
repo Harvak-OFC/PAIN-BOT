@@ -16,9 +16,9 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['18293142989', '💎 CREADOR 💎', true],
-  ['18293142989', 'Félix #2', true],
-  ['18293142989', 'Félix #3', true],
+  ['573015270038', '💎 CREADOR 💎', true],
+  ['573015270038', 'Harvak #2', true],
+  ['573015270038', 'Harvak #3', true],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -32,21 +32,21 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '2.2.0'
-global.nameqr = 'MAKIMA-V2'
-global.namebot = '𐔌̷ִ̼̼͊🩵 ̸̷᮫໊᷐͢᷍ᰍ 𝐌A͜͡𝐊𝖎𝐌ꪖ ✧ 𝐁ꪮ𝚃 𝐕2'
+global.nameqr = 'Pain-Bot'
+global.namebot = '𐔌̷ִ̼̼͊💚 ̸̷᮫໊᷐͢᷍ᰍ Pain ✧ 𝐁ꪮ𝚃 '
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𐔌̷ִ̼̼͊🩵 ̸̷᮫໊᷐͢᷍ᰍ 𝐌A͜͡𝐊𝖎𝐌ꪖ'
-global.botname = '𐔌̷ִ̼̼͊🩵 ̸̷᮫໊᷐͢᷍ᰍ 𝐌A͜͡𝐊𝖎𝐌ꪖ'
+global.packname = '𐔌̷ִ̼̼͊💚 ̸̷᮫໊᷐͢᷍ᰍ Pain-bot'
+global.botname = '𐔌̷ִ̼̼͊💚 ̸̷᮫໊᷐͢᷍ᰍ Pain-bot'
 global.wm = 'Powered By Deymoon Club'
 global.author = 'Made with Deymoon Club'
-global.dev = 'Powered By Félic Manuel'
-global.textbot = 'Made with Félix Manuel'
-global.etiqueta = '✦ Félix Manuel'
+global.dev = 'Powered By Harvak OFC'
+global.textbot = 'Made with Harvak OFC'
+global.etiqueta = '✦ Harvak OFC'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
