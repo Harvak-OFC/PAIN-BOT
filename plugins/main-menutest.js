@@ -9,7 +9,7 @@ let handler = async (m, { conn, args }) => {
 
   const botname = global.botname || "Paim-bot";
   const textbot = global.textbot || "Descripción del bot";
-  const banner = global.banner || "https://files.catbox.moe/6ayihk.jpg";
+  const banner = global.banner || "URL de baner";
   const redes = global.redes || "URL de las redes sociales";
   const channelRD = global.channelRD || { id: 'id_del_canal', name: 'Nombre del canal' };
   const moneda = global.moneda || 'monedas';
