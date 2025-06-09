@@ -53,8 +53,8 @@ global.etiqueta = '✦ Harvak OFC'
 global.moneda = 'Diamantes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://files.catbox.moe/92lqow.jpg'
-global.avatar = 'https://files.catbox.moe/snngs4.jpg'
+global.banner = 'https://files.catbox.moe/6ayihk.jpg'
+global.avatar = 'https://files.catbox.moe/3a2ab3.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
